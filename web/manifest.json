@@ -1,0 +1,36 @@
+{
+    "name": "PyPocket: Python IDE & Learning Academy",
+    "short_name": "PyPocket",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#090D16",
+    "theme_color": "#2563EB",
+    "description": "High-performance interactive Python IDE, cloud sandbox compiler, curriculum with video masterclasses, quizzes, and official certificates.",
+    "orientation": "any",
+    "categories": ["education", "developer tools", "productivity"],
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}

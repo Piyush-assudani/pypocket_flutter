@@ -1,0 +1,7 @@
+# PyPocket Android Release Signing Properties Template
+# Fill with your official .jks credentials when generating Play Store bundle:
+# 
+# storePassword=your_keystore_password
+# keyPassword=your_key_password
+# keyAlias=your_key_alias
+# storeFile=../upload-keystore.jks

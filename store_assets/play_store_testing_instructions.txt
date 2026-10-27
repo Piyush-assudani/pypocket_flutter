@@ -1,0 +1,42 @@
+================================================================================
+GOOGLE PLAY CONSOLE — APP ACCESS & REVIEWER TESTING INSTRUCTIONS
+================================================================================
+
+WHERE TO ENTER THIS IN GOOGLE PLAY CONSOLE:
+--------------------------------------------------------------------------------
+1. Open Google Play Console (https://play.google.com/console).
+2. Select your app: "PyPocket".
+3. In the left-hand menu: "Policy and programs" ➔ "App content".
+4. Card: "App access" (Manage / Start declaration).
+5. Select: "All or some functionality in my app is restricted".
+6. Click "+ Add instructions" and enter the fields below.
+
+
+================================================================================
+EXACT VALUES TO COPY-PASTE (STRICTLY UNDER 500 CHARACTERS):
+================================================================================
+
+1. Instruction Name:
+--------------------------------------------------------------------------------
+QA & Reviewer Testing Access
+
+
+2. Username / Email:
+--------------------------------------------------------------------------------
+tester@google.com
+
+
+3. Password:
+--------------------------------------------------------------------------------
+PyPocket2026!
+
+
+4. Explanation / Any other instructions (455 characters / 73 words):
+--------------------------------------------------------------------------------
+1. Open app & go to Profile tab (bottom right).
+2. Scroll down & tap 'QA / Reviewer Access' (or long-press PyPocket logo on Home screen).
+3. Tap 'Fill QA Credentials' (or enter tester@google.com / PyPocket2026!) and tap 'Unlock All for Testing'.
+4. All 32 lessons, quizzes, IDE & verified certificate are instantly unlocked.
+5. Tap Certificate tab to test PDF download.
+
+Or sign in normally with tester@google.com / PyPocket2026!. No OTP/payment required.

@@ -1,0 +1,49 @@
+{
+  "video_id": "kqtD5dpn9C8",
+  "youtube_url": "https://www.youtube.com/watch?v=kqtD5dpn9C8",
+  "generated_at": "2026-10-21T08:35:53Z",
+  "total_patches": 5,
+  "chunk_interval_seconds": 60.0,
+  "patches": [
+    {
+      "chunk_index": 1,
+      "start_seconds": 0.0,
+      "end_seconds": 90.0,
+      "timestamp_label": "00:00 - 01:30",
+      "text": "Welcome to this PyPocket Masterclass. Today we examine the fundamental architecture of Python execution, memory allocation, and syntax structure. In Python, everything is an object. When you assign a variable name, you create a pointer inside the local namespace dictionary pointing to heap memory.",
+      "word_count": 44
+    },
+    {
+      "chunk_index": 2,
+      "start_seconds": 90.0,
+      "end_seconds": 200.0,
+      "timestamp_label": "01:30 - 03:20",
+      "text": "Notice how mutable objects like lists and dicts can be modified in place, whereas integers, strings, and tuples allocate new memory addresses upon reassignment. Let us look at real code examples. Using the built-in id() and hex(id()) functions, we can inspect memory addresses in real-time in CPython.",
+      "word_count": 47
+    },
+    {
+      "chunk_index": 3,
+      "start_seconds": 200.0,
+      "end_seconds": 260.0,
+      "timestamp_label": "03:20 - 04:20",
+      "text": "Pay close attention to error handling and best practices: always utilize context managers (with statements) for deterministic resource cleanup.",
+      "word_count": 19
+    },
+    {
+      "chunk_index": 4,
+      "start_seconds": 260.0,
+      "end_seconds": 320.0,
+      "timestamp_label": "04:20 - 05:20",
+      "text": "To optimize for speed and Big-O performance, leverage list comprehensions, generator expressions, and built-in algorithms whenever possible.",
+      "word_count": 17
+    },
+    {
+      "chunk_index": 5,
+      "start_seconds": 320.0,
+      "end_seconds": 380.0,
+      "timestamp_label": "05:20 - 06:20",
+      "text": "Let us conclude with a live hands-on challenge. Switch to your PyPocket CPython IDE tab and run the sample script to verify your mastery.",
+      "word_count": 24
+    }
+  ]
+}
